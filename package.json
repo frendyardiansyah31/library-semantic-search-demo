@@ -1,0 +1,11 @@
+{
+  "name": "library-semantic-search-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "embed": "node scripts/embed.mjs"
+  },
+  "devDependencies": {
+    "@huggingface/transformers": "^3.0.0"
+  }
+}
