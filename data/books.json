@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Dasar-Dasar Katalogisasi Deskriptif",
+    "author": "Sari Wulandari",
+    "ddc": "025.32",
+    "subjects": [
+      "katalogisasi",
+      "deskripsi bibliografis",
+      "perpustakaan"
+    ],
+    "summary": "Panduan pengantar membuat deskripsi bibliografis bahan pustaka, mencakup area judul, edisi, penerbitan, dan kolasi."
+  },
+  {
+    "id": 2,
+    "title": "Introduction to Library Cataloging",
+    "author": "Daniel Harper",
+    "ddc": "025.3",
+    "subjects": [
+      "cataloging",
+      "bibliographic records",
+      "libraries"
+    ],
+    "summary": "A beginner-friendly overview of creating catalog records, covering descriptive access points, authority control, and record structure."
+  },
+  {
+    "id": 3,
+    "title": "Klasifikasi Desimal Dewey untuk Pemula",
+    "author": "Budi Santoso",
+    "ddc": "025.431",
+    "subjects": [
+      "klasifikasi",
+      "DDC",
+      "nomor panggil"
+    ],
+    "summary": "Penjelasan langkah demi langkah menentukan nomor kelas DDC dan menyusun nomor panggil untuk koleksi perpustakaan umum."
+  },
+  {
+    "id": 4,
+    "title": "Subject Analysis and Classification Practice",
+    "author": "Eleanor Whitfield",
+    "ddc": "025.4",
+    "subjects": [
+      "subject analysis",
+      "classification",
+      "indexing"
+    ],
+    "summary": "Practical exercises in analyzing the subject of a work and assigning classification numbers and subject headings."
+  },
+  {
+    "id": 5,
+    "title": "Pengantar Tajuk Subjek dan Tesaurus",
+    "author": "Rina Kusumawati",
+    "ddc": "025.49",
+    "subjects": [
+      "tajuk subjek",
+      "tesaurus",
+      "temu kembali informasi"
+    ],
+    "summary": "Membahas penyusunan tajuk subjek dan tesaurus agar pencarian informasi di katalog menjadi lebih akurat."
+  },
+  {
+    "id": 6,
+    "title": "Metadata Standards for Digital Collections",
+    "author": "Marcus Lindqvist",
+    "ddc": "025.3",
+    "subjects": [
+      "metadata",
+      "Dublin Core",
+      "digital libraries"
+    ],
+    "summary": "Compares metadata schemas such as Dublin Core and MODS and explains how to apply them to digitized library collections."
+  },
+  {
+    "id": 7,
+    "title": "Resource Description and Access in Practice",
+    "author": "Helen Okafor",
+    "ddc": "025.32",
+    "subjects": [
+      "RDA",
+      "cataloging rules",
+      "FRBR"
+    ],
+    "summary": "Explains the RDA cataloging standard, its entity-relationship model, and how to transition from older cataloging rules."
+  },
+  {
+    "id": 8,
+    "title": "Pengelolaan Koleksi Perpustakaan Sekolah",
+    "author": "Agus Prasetyo",
+    "ddc": "025.2",
+    "subjects": [
+      "pengembangan koleksi",
+      "perpustakaan sekolah",
+      "seleksi"
+    ],
+    "summary": "Strategi seleksi, pengadaan, dan penyiangan koleksi untuk perpustakaan sekolah dengan anggaran terbatas."
+  },
+  {
+    "id": 9,
+    "title": "Digital Preservation Handbook",
+    "author": "Priya Raman",
+    "ddc": "025.84",
+    "subjects": [
+      "digital preservation",
+      "archives",
+      "file formats"
+    ],
+    "summary": "A handbook on keeping digital materials accessible over time, including format migration, storage, and policy planning."
+  },
+  {
+    "id": 10,
+    "title": "Literasi Informasi di Era Digital",
+    "author": "Dewi Anggraini",
+    "ddc": "028.7",
+    "subjects": [
+      "literasi informasi",
+      "pendidikan pengguna",
+      "internet"
+    ],
+    "summary": "Membekali pembaca dengan kemampuan mencari, menilai, dan menggunakan informasi dari sumber digital secara bertanggung jawab."
+  },
+  {
+    "id": 11,
+    "title": "Reference Services in the Modern Library",
+    "author": "Thomas Greene",
+    "ddc": "025.52",
+    "subjects": [
+      "reference services",
+      "librarianship",
+      "user support"
+    ],
+    "summary": "Describes how librarians answer research questions, conduct reference interviews, and support users in person and online."
+  },
+  {
+    "id": 12,
+    "title": "Sejarah Perpustakaan Nusantara",
+    "author": "Hendra Wijaya",
+    "ddc": "027.0959",
+    "subjects": [
+      "sejarah",
+      "perpustakaan",
+      "Nusantara"
+    ],
+    "summary": "Menelusuri perkembangan perpustakaan dari masa kerajaan hingga era modern di kepulauan Nusantara."
+  },
+  {
+    "id": 13,
+    "title": "Open Access and Scholarly Publishing",
+    "author": "Sofia Alvarez",
+    "ddc": "070.5",
+    "subjects": [
+      "open access",
+      "scholarly communication",
+      "publishing"
+    ],
+    "summary": "Examines how open access models are changing academic publishing, funding, and the role of university libraries."
+  },
+  {
+    "id": 14,
+    "title": "Pemrograman Python untuk Analisis Data",
+    "author": "Rizky Maulana",
+    "ddc": "005.133",
+    "subjects": [
+      "Python",
+      "analisis data",
+      "pemrograman"
+    ],
+    "summary": "Tutorial menggunakan Python dan pustaka umum untuk membersihkan, menganalisis, dan memvisualisasikan data."
+  },
+  {
+    "id": 15,
+    "title": "Machine Learning Fundamentals",
+    "author": "Aisha Rahman",
+    "ddc": "006.31",
+    "subjects": [
+      "machine learning",
+      "algorithms",
+      "statistics"
+    ],
+    "summary": "An accessible introduction to supervised and unsupervised learning, model evaluation, and common algorithms."
+  },
+  {
+    "id": 16,
+    "title": "Basis Data Relasional dan SQL",
+    "author": "Fajar Nugroho",
+    "ddc": "005.74",
+    "subjects": [
+      "basis data",
+      "SQL",
+      "pemodelan data"
+    ],
+    "summary": "Konsep basis data relasional, normalisasi, dan penulisan query SQL dengan contoh kasus sederhana."
+  },
+  {
+    "id": 17,
+    "title": "Information Retrieval Basics",
+    "author": "Nathan Brooks",
+    "ddc": "025.04",
+    "subjects": [
+      "information retrieval",
+      "search engines",
+      "ranking"
+    ],
+    "summary": "Covers indexing, term weighting, and ranking models that power search engines and library discovery systems."
+  },
+  {
+    "id": 18,
+    "title": "Natural Language Processing Made Simple",
+    "author": "Lina Chen",
+    "ddc": "006.35",
+    "subjects": [
+      "NLP",
+      "text processing",
+      "language models"
+    ],
+    "summary": "Introduces tokenization, embeddings, and modern language models for processing and understanding human language."
+  },
+  {
+    "id": 19,
+    "title": "Jaringan Komputer untuk Pemula",
+    "author": "Yusuf Hidayat",
+    "ddc": "004.6",
+    "subjects": [
+      "jaringan komputer",
+      "protokol",
+      "internet"
+    ],
+    "summary": "Pengenalan topologi, protokol TCP/IP, dan perangkat jaringan dengan ilustrasi yang mudah dipahami."
+  },
+  {
+    "id": 20,
+    "title": "Cybersecurity Essentials",
+    "author": "Oliver Grant",
+    "ddc": "005.8",
+    "subjects": [
+      "cybersecurity",
+      "encryption",
+      "privacy"
+    ],
+    "summary": "Explains core security concepts such as threats, encryption, authentication, and safe practices for organizations."
+  },
+  {
+    "id": 21,
+    "title": "Ekonomi Mikro: Teori dan Penerapan",
+    "author": "Maya Puspita",
+    "ddc": "338.5",
+    "subjects": [
+      "ekonomi mikro",
+      "harga",
+      "pasar"
+    ],
+    "summary": "Membahas perilaku konsumen, produsen, dan mekanisme pasar disertai contoh dari perekonomian Indonesia."
+  },
+  {
+    "id": 22,
+    "title": "Principles of Accounting",
+    "author": "Richard Tan",
+    "ddc": "657",
+    "subjects": [
+      "accounting",
+      "financial statements",
+      "bookkeeping"
+    ],
+    "summary": "Foundational text on recording transactions, preparing financial statements, and interpreting basic accounting reports."
+  },
+  {
+    "id": 23,
+    "title": "Manajemen Usaha Kecil dan Menengah",
+    "author": "Teguh Rahardjo",
+    "ddc": "658.022",
+    "subjects": [
+      "UMKM",
+      "manajemen",
+      "kewirausahaan"
+    ],
+    "summary": "Panduan mengelola usaha kecil, mulai dari perencanaan, keuangan, hingga pemasaran sederhana."
+  },
+  {
+    "id": 24,
+    "title": "Leadership in Practice",
+    "author": "Catherine Doyle",
+    "ddc": "658.4",
+    "subjects": [
+      "leadership",
+      "management",
+      "teamwork"
+    ],
+    "summary": "Real-world lessons on leading teams, making decisions, and building healthy organizational culture."
+  },
+  {
+    "id": 25,
+    "title": "Hukum Perdata di Indonesia",
+    "author": "Ratna Sari Dewi",
+    "ddc": "346.598",
+    "subjects": [
+      "hukum perdata",
+      "kontrak",
+      "perorangan"
+    ],
+    "summary": "Uraian sistematis tentang hukum perdata Indonesia, meliputi perikatan, kontrak, dan hukum keluarga."
+  },
+  {
+    "id": 26,
+    "title": "Introduction to Constitutional Law",
+    "author": "Benjamin Hale",
+    "ddc": "342",
+    "subjects": [
+      "constitutional law",
+      "rights",
+      "government"
+    ],
+    "summary": "Surveys constitutional principles, separation of powers, and the protection of individual rights."
+  },
+  {
+    "id": 27,
+    "title": "Sosiologi Masyarakat Perkotaan",
+    "author": "Lestari Handayani",
+    "ddc": "307.76",
+    "subjects": [
+      "sosiologi",
+      "kota",
+      "masyarakat"
+    ],
+    "summary": "Analisis perubahan sosial, migrasi, dan kehidupan komunitas di kota-kota besar Indonesia."
+  },
+  {
+    "id": 28,
+    "title": "Introduction to Psychology",
+    "author": "Naomi Fletcher",
+    "ddc": "150",
+    "subjects": [
+      "psychology",
+      "behavior",
+      "cognition"
+    ],
+    "summary": "A broad introduction to human behavior, memory, learning, emotion, and mental health."
+  },
+  {
+    "id": 29,
+    "title": "Psikologi Perkembangan Anak",
+    "author": "Wulan Safitri",
+    "ddc": "155.4",
+    "subjects": [
+      "psikologi anak",
+      "perkembangan",
+      "pengasuhan"
+    ],
+    "summary": "Menjelaskan tahap perkembangan fisik, kognitif, dan sosial anak dari lahir hingga remaja."
+  },
+  {
+    "id": 30,
+    "title": "Filsafat Ilmu: Sebuah Pengantar",
+    "author": "Ahmad Fauzi",
+    "ddc": "121",
+    "subjects": [
+      "filsafat ilmu",
+      "epistemologi",
+      "metodologi"
+    ],
+    "summary": "Pengantar tentang hakikat ilmu pengetahuan, cara memperoleh kebenaran, dan batas-batas metode ilmiah."
+  },
+  {
+    "id": 31,
+    "title": "Ethics and Everyday Life",
+    "author": "Julian Moore",
+    "ddc": "170",
+    "subjects": [
+      "ethics",
+      "moral philosophy",
+      "decision making"
+    ],
+    "summary": "Explores moral theories and applies them to everyday dilemmas in work, family, and society."
+  },
+  {
+    "id": 32,
+    "title": "Pengantar Studi Islam",
+    "author": "Hasan Basri",
+    "ddc": "297",
+    "subjects": [
+      "studi Islam",
+      "agama",
+      "pemikiran"
+    ],
+    "summary": "Gambaran umum ajaran, sejarah, dan pemikiran Islam untuk pembaca pemula."
+  },
+  {
+    "id": 33,
+    "title": "World Religions: A Comparative Guide",
+    "author": "Miriam Stein",
+    "ddc": "200",
+    "subjects": [
+      "religion",
+      "comparative study",
+      "culture"
+    ],
+    "summary": "Compares the beliefs, practices, and histories of the major world religions in a neutral tone."
+  },
+  {
+    "id": 34,
+    "title": "Matematika Dasar untuk Perguruan Tinggi",
+    "author": "Eko Setiawan",
+    "ddc": "510",
+    "subjects": [
+      "matematika",
+      "kalkulus",
+      "aljabar"
+    ],
+    "summary": "Materi aljabar, fungsi, limit, dan kalkulus dasar untuk mahasiswa tahun pertama."
+  },
+  {
+    "id": 35,
+    "title": "Statistics for Beginners",
+    "author": "Laura Whitman",
+    "ddc": "519.5",
+    "subjects": [
+      "statistics",
+      "probability",
+      "data"
+    ],
+    "summary": "Explains probability, distributions, and hypothesis testing using simple everyday examples."
+  },
+  {
+    "id": 36,
+    "title": "Fisika Dasar: Mekanika dan Panas",
+    "author": "Irwan Kurniawan",
+    "ddc": "530",
+    "subjects": [
+      "fisika",
+      "mekanika",
+      "termodinamika"
+    ],
+    "summary": "Konsep gerak, gaya, energi, dan panas dengan soal latihan dan pembahasan."
+  },
+  {
+    "id": 37,
+    "title": "Biologi Sel dan Genetika",
+    "author": "Citra Ayuningtyas",
+    "ddc": "570",
+    "subjects": [
+      "biologi",
+      "sel",
+      "genetika"
+    ],
+    "summary": "Struktur dan fungsi sel, pewarisan sifat, serta pengantar rekayasa genetika."
+  },
+  {
+    "id": 38,
+    "title": "Climate Change and Society",
+    "author": "Andrew Kessler",
+    "ddc": "363.7",
+    "subjects": [
+      "climate change",
+      "environment",
+      "policy"
+    ],
+    "summary": "Discusses the causes of climate change, its social effects, and policy responses at local and global levels."
+  },
+  {
+    "id": 39,
+    "title": "Ekologi Hutan Tropis Indonesia",
+    "author": "Slamet Riyadi",
+    "ddc": "577.34",
+    "subjects": [
+      "ekologi",
+      "hutan tropis",
+      "keanekaragaman hayati"
+    ],
+    "summary": "Membahas ekosistem hutan tropis Indonesia, keanekaragaman hayati, dan upaya pelestariannya."
+  },
+  {
+    "id": 40,
+    "title": "Dasar-Dasar Kesehatan Masyarakat",
+    "author": "Nurul Hidayati",
+    "ddc": "362.1",
+    "subjects": [
+      "kesehatan masyarakat",
+      "epidemiologi",
+      "pencegahan"
+    ],
+    "summary": "Pengantar kesehatan masyarakat, termasuk epidemiologi, promosi kesehatan, dan pencegahan penyakit."
+  },
+  {
+    "id": 41,
+    "title": "Nutrition and Healthy Eating",
+    "author": "Grace Mitchell",
+    "ddc": "613.2",
+    "subjects": [
+      "nutrition",
+      "diet",
+      "health"
+    ],
+    "summary": "Evidence-based guidance on balanced diets, nutrients, and building sustainable eating habits."
+  },
+  {
+    "id": 42,
+    "title": "Teknik Menulis Karya Ilmiah",
+    "author": "Bambang Susilo",
+    "ddc": "808.066",
+    "subjects": [
+      "menulis ilmiah",
+      "penelitian",
+      "jurnal"
+    ],
+    "summary": "Langkah menulis artikel ilmiah, skripsi, dan laporan penelitian dengan sitasi yang benar."
+  },
+  {
+    "id": 43,
+    "title": "Creative Writing Workshop",
+    "author": "Isabelle Carter",
+    "ddc": "808.3",
+    "subjects": [
+      "creative writing",
+      "fiction",
+      "storytelling"
+    ],
+    "summary": "Exercises and advice for developing characters, plot, and a personal voice in fiction writing."
+  },
+  {
+    "id": 44,
+    "title": "Kumpulan Cerita Rakyat Nusantara",
+    "author": "Tim Penyusun Dongeng",
+    "ddc": "398.2",
+    "subjects": [
+      "cerita rakyat",
+      "dongeng",
+      "budaya"
+    ],
+    "summary": "Antologi cerita rakyat dari berbagai daerah di Indonesia dengan pesan moral untuk anak-anak."
+  },
+  {
+    "id": 45,
+    "title": "A Short History of Southeast Asia",
+    "author": "William Hartono",
+    "ddc": "959",
+    "subjects": [
+      "history",
+      "Southeast Asia",
+      "colonialism"
+    ],
+    "summary": "A concise survey of the history of Southeast Asia from early kingdoms to modern nation-states."
+  },
+  {
+    "id": 46,
+    "title": "Sejarah Kemerdekaan Indonesia",
+    "author": "Ibrahim Lubis",
+    "ddc": "959.803",
+    "subjects": [
+      "sejarah",
+      "kemerdekaan",
+      "nasionalisme"
+    ],
+    "summary": "Kronologi perjuangan kemerdekaan Indonesia, tokoh-tokoh pentingnya, dan dampaknya bagi bangsa."
+  },
+  {
+    "id": 47,
+    "title": "Geografi Indonesia: Pulau dan Iklim",
+    "author": "Dian Kartika",
+    "ddc": "915.98",
+    "subjects": [
+      "geografi",
+      "iklim",
+      "kepulauan"
+    ],
+    "summary": "Gambaran letak, pulau, iklim, dan sumber daya alam Indonesia untuk pelajar dan umum."
+  },
+  {
+    "id": 48,
+    "title": "Art History: From Cave to Contemporary",
+    "author": "Sophie Laurent",
+    "ddc": "709",
+    "subjects": [
+      "art history",
+      "painting",
+      "culture"
+    ],
+    "summary": "Traces the development of visual art across eras, styles, and cultures."
+  },
+  {
+    "id": 49,
+    "title": "Seni Batik dan Tekstil Tradisional",
+    "author": "Kartini Widodo",
+    "ddc": "746.6",
+    "subjects": [
+      "batik",
+      "tekstil",
+      "seni rupa"
+    ],
+    "summary": "Menjelaskan sejarah, motif, dan teknik pembuatan batik serta tekstil tradisional Indonesia."
+  },
+  {
+    "id": 50,
+    "title": "Teori Musik dan Gamelan",
+    "author": "Joko Purnomo",
+    "ddc": "781.2",
+    "subjects": [
+      "musik",
+      "gamelan",
+      "teori"
+    ],
+    "summary": "Pengantar teori musik dengan fokus pada laras, pathet, dan struktur komposisi gamelan."
+  }
+]
