@@ -22,4 +22,6 @@ Open http://localhost:3000.
    - Build output directory: `out`
 4. Save and deploy.
 
+If the project was created as a Worker instead of Pages, the committed `wrangler.jsonc` serves `out/` as static assets, and the default deploy command `npx wrangler deploy` works as is.
+
 The build produces static files in `out/` (`output: 'export'`), so no server runtime is needed.
